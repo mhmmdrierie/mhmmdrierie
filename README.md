@@ -1,7 +1,7 @@
 # Hey, I'm Muhammad Riri! 🌟  
 A **Full Stack Developer** in progress, based in **Bekasi, Indonesia**. Currently, I’m part of the awesome team at **Nusantara Hosting**!  
 
-![Header](./MUHAMMAD RIERIE (1).png)
+<img src="[https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png](https://github.com/mhmmdrierie/mhmmdrierie/blob/main/ok.png)">
 
 ### About Me  
 I’m passionate about building web applications, learning new technologies, and occasionally getting stuck debugging things (it’s all part of the fun, right?).  
