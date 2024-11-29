@@ -1,8 +1,6 @@
 
 # Hi, i'm Muhammad Riri 👋😎
 
----
-
 🌏 **Bekasi, Indonesia**  
 ✨ Full Stack Developer in progress, currently part of the team at **Nusantara Hosting**.  
 
