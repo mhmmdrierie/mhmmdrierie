@@ -1,25 +1,38 @@
-# Hey, I'm Muhammad Riri! 🌟  
-A **Full Stack Developer** in progress, based in **Bekasi, Indonesia**. Currently, I’m part of the awesome team at **Nusantara Hosting**!  
 
-<img src="https://github.com/mhmmdrierie/mhmmdrierie/blob/main/ok.png">
+# Hi, i'm Muhammad Riri 👋😎
 
-### About Me  
-I’m passionate about building web applications, learning new technologies, and occasionally getting stuck debugging things (it’s all part of the fun, right?).  
-Fun fact: I haven’t finished a single project… *yet*! But every line of code gets me closer to the goal. 🚀  
+🌏 **Bekasi, Indonesia**  
+✨ Full Stack Developer in progress, currently part of the team at **Nusantara Hosting**.  
 
-### What I Do  
-- 🛠 **Frontend**: Crafting sleek, user-friendly interfaces.  
-- ⚙️ **Backend**: Designing efficient and scalable server-side systems.  
-- 📚 **Always Learning**: Staying up-to-date with modern tech trends.  
+---
 
-### Current Goals  
-- Launch my **first completed project** (soon™).  
-- Dive deeper into frameworks and tools like **Next.js**, **Node.js**, and **Docker**.  
-- Collaborate with awesome developers worldwide.  
+## About Me 🖋  
+I’m a developer who’s more about the journey than the destination (but yeah, finishing a project is on the list too).  
+💻 Coding.  
+🌱 Learning.  
+🌟 Growing.  
 
-### Let’s Connect!  
-- **Email**: riri@nusantarahosting.com  
-- **LinkedIn**: [Muhammad Riri](#)  
-- **GitHub**: [github.com/muhammadriri](#)  
+Still figuring things out, but that’s what makes it exciting.  
 
-Check out my repositories and feel free to drop by—feedback, ideas, or just to say hi!  
+---
+
+## My Tools ⚡  
+- 🖌 **Frontend**: Building clean, modern, and user-friendly designs.  
+- 🔧 **Backend**: Making the unseen work flawlessly.  
+- 🌐 Always curious about tech innovations, from **Next.js** to **Docker**.  
+
+---
+
+## Current Goals 🎯  
+- Complete my **first polished project**.  
+- Dive deeper into cloud and server-side tools.  
+- Collaborate, share, and grow with the global dev community.  
+
+---
+
+## Let's Connect 📬  
+- **Email**: rierie@nusantara.id
+- **Instagram**: [instagram.com/mhmmdrierie](#)  
+- **Discord**: [discord.com/users/1255955716620157013](#)  
+
+_"Every code written today is a step closer to what I dream for tomorrow."_  
