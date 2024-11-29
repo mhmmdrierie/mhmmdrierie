@@ -17,7 +17,7 @@ Still figuring things out, but that’s what makes it exciting.
 ---
 
 ## My Tools ⚡  
-- 🖌 **Frontend**: Building clean, modern, and user-friendly designs.  
+- 🖌 **Frontend**: Building clean, modern, and user-friendly designs.    <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
 - 🔧 **Backend**: Making the unseen work flawlessly.  
 - 🌐 Always curious about tech innovations, from **Next.js** to **Docker**.  
 
