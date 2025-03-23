@@ -2,7 +2,7 @@
 # Hi, i'm Muhammad Riri 👋😎
 
 🌏 **Bekasi, Indonesia**  
-✨ Full Stack Developer in progress, currently part of the team at **Nusantara Hosting**.  
+✨ Full Stack Developer in progress, currently part of the team at **Nothign**.  
 
 ---
 
@@ -31,7 +31,7 @@ Still figuring things out, but that’s what makes it exciting.
 ---
 
 ## Let's Connect 📬  
-- **Email**: rierie@nusantara.id
+- **Email**: ririnfsfrrs@gmail.com
 - **Instagram**: [instagram.com/mhmmdrierie](#)  
 - **Discord**: [discord.com/users/1255955716620157013](#)  
 
