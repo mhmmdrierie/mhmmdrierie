@@ -5,9 +5,6 @@
 i’m **riri** — an ai trainer from indonesia who loves blending code with a bit of chaos.  
 here you’ll find random experiments, open‑source tweaks, and occasional memes.
 
-<!-- stats badges -->
-![repos](https://badgen.net/github/repos/mhmmdrierie)
-
 ---
 
 #### ⚙️ current playgrounds
