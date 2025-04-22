@@ -23,13 +23,13 @@ here you’ll find random experiments, open‑source tweaks, and occasional meme
 - self‑hosting kubernetes (pray for my vps)
 
 #### 💬 let’s talk
-tweet @ **[@parras](https://twitter.com/ririnfsfrrs)** · email **rierie@anjay‑hosting.me**  
+tweet @ **[parras](https://twitter.com/ririnfsfrrs)** · email **rierie@anjay‑hosting.me**  
 open for collabs, freelance model training, or just ngopi virtual ☕️
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ri&show_icons=true&theme=tokyonight&hide=issues&count_private=true" alt="ri's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmmdrierie&show_icons=true&theme=tokyonight&hide=issues&count_private=true" alt="ri's github stats">
 </p>
 
 <!-- end -->
