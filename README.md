@@ -1,38 +1,39 @@
+<!-- profil readme -->
 
-# Hi, i'm Muhammad Riri 👋😎
+### hey there! 👏
 
-🌏 **Bekasi, Indonesia**  
-✨ Full Stack Developer in progress...  
+i’m **riri** — an ai trainer from indonesia who loves blending code with a bit of chaos.  
+here you’ll find random experiments, open‑source tweaks, and occasional memes.
 
----
-
-## About Me 🖋  
-I’m a developer who’s more about the journey than the destination (but yeah, finishing a project is on the list too).  
-💻 Coding.  
-🌱 Learning.  
-🌟 Growing.  
-
-Still figuring things out, but that’s what makes it exciting.  
+<!-- stats badges -->
+![repos](https://badgen.net/github/repos/mhmmdrierie)
 
 ---
 
-## My Tools ⚡  
-- 🖌 **Frontend**: Building clean, modern, and user-friendly designs.
-- 🔧 **Backend**: Making the unseen work flawlessly.  
-- 🌐 Always curious about tech innovations, from **Next.js** to **Docker**.  
+#### ⚙️ current playgrounds
+- **fine‑tuning llms & sdxl** on local gpus (yes, even 8 GB vram 🤏)
+- cooking datasets with 🐍 **pandas** & **polars**
+- building chat pipelines on **open‑webui** @ `chat.anjay-hosting.me`
+- occasional talks / threads about prompt engineering & evals
+
+#### 🔧 tech stack
+`python` · `pytorch` · `fastapi` · `nginx` · `ubuntu 22.04` · `lspatch` · `git`  
+
+> prefer lowercase & mix of english + bahasa; keep it chill.
+
+#### 🌱 learning now
+- rust for high‑perf data tooling  
+- distributed rlhf tricks  
+- self‑hosting kubernetes (pray for my vps)
+
+#### 💬 let’s talk
+tweet @ **[@parras](https://twitter.com/ririnfsfrrs)** · email **rierie[at]anjay‑hosting.me**  
+open for collabs, freelance model training, or just ngopi virtual ☕️
 
 ---
 
-## Current Goals 🎯  
-- Complete my **first polished project**.  
-- Dive deeper into cloud and server-side tools.  
-- Collaborate, share, and grow with the global dev community.  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ri&show_icons=true&theme=tokyonight&hide=issues&count_private=true" alt="ri's github stats">
+</p>
 
----
-
-## Let's Connect 📬  
-- **Email**: ririnfsfrrs@gmail.com
-- **Instagram**: [instagram.com/mhmmdrierie](#)  
-- **Discord**: [discord.com/users/1255955716620157013](#)  
-
-_"Every code written today is a step closer to what I dream for tomorrow."_  
+<!-- end -->
