@@ -10,13 +10,12 @@ here you’ll find random experiments, open‑source tweaks, and occasional meme
 #### ⚙️ current playgrounds
 - **fine‑tuning llms & sdxl** on local gpus (yes, even 8 GB vram 🤏)
 - cooking datasets with 🐍 **pandas** & **polars**
-- building chat pipelines on **open‑webui** @ `chat.anjay-hosting.me`
 - occasional talks / threads about prompt engineering & evals
 
 #### 🔧 tech stack
 `python` · `pytorch` · `fastapi` · `nginx` · `ubuntu 22.04` · `lspatch` · `git`  
 
-> prefer lowercase & mix of english + bahasa; keep it chill.
+> prefer lowercase & mix of english + indonesia; keep it chill.
 
 #### 🌱 learning now
 - rust for high‑perf data tooling  
@@ -24,7 +23,7 @@ here you’ll find random experiments, open‑source tweaks, and occasional meme
 - self‑hosting kubernetes (pray for my vps)
 
 #### 💬 let’s talk
-tweet @ **[@parras](https://twitter.com/ririnfsfrrs)** · email **rierie[at]anjay‑hosting.me**  
+tweet @ **[@parras](https://twitter.com/ririnfsfrrs)** · email **rierie@anjay‑hosting.me**  
 open for collabs, freelance model training, or just ngopi virtual ☕️
 
 ---
